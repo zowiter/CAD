@@ -1,0 +1,12 @@
+C:\Users\eveli\Documents\cad\ClientWrapper\bin\Debug\net6.0\ClientWrapper.deps.json
+C:\Users\eveli\Documents\cad\ClientWrapper\bin\Debug\net6.0\ClientWrapper.dll
+C:\Users\eveli\Documents\cad\ClientWrapper\bin\Debug\net6.0\ClientWrapper.pdb
+C:\Users\eveli\Documents\cad\ClientWrapper\obj\Debug\net6.0\ClientWrapper.csproj.AssemblyReference.cache
+C:\Users\eveli\Documents\cad\ClientWrapper\obj\Debug\net6.0\ClientWrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eveli\Documents\cad\ClientWrapper\obj\Debug\net6.0\ClientWrapper.AssemblyInfoInputs.cache
+C:\Users\eveli\Documents\cad\ClientWrapper\obj\Debug\net6.0\ClientWrapper.AssemblyInfo.cs
+C:\Users\eveli\Documents\cad\ClientWrapper\obj\Debug\net6.0\ClientWrapper.csproj.CoreCompileInputs.cache
+C:\Users\eveli\Documents\cad\ClientWrapper\obj\Debug\net6.0\ClientWrapper.dll
+C:\Users\eveli\Documents\cad\ClientWrapper\obj\Debug\net6.0\refint\ClientWrapper.dll
+C:\Users\eveli\Documents\cad\ClientWrapper\obj\Debug\net6.0\ClientWrapper.pdb
+C:\Users\eveli\Documents\cad\ClientWrapper\obj\Debug\net6.0\ref\ClientWrapper.dll

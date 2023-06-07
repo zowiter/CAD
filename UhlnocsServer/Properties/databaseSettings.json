@@ -1,0 +1,8 @@
+// this is an example of settings, not real settings used by server
+{
+  "username": "postgres",
+  "password": "impassable",
+  "host": "localhost",
+  "port": "5432",
+  "database": "uhlnocs"
+}

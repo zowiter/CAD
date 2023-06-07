@@ -1,0 +1,6 @@
+// this is an example of settings, not real settings used by server
+{
+  "modelsDirectory": "C:\\Projects\\Diploma\\Models\\",
+  "tmpDirectory": "C:\\Projects\\Diploma\\Tmp\\",
+  "modelServiceBufferSize": 262144
+}

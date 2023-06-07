@@ -1,0 +1,2 @@
+obj\Debug\net6.0\Protos/CalculationProto.cs \
+obj\Debug\net6.0\Protos/CalculationProtoGrpc.cs: Protos/calculationProto.proto
